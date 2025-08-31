@@ -1,6 +1,7 @@
 # Mô Phỏng Lăng Kính Chính Xác
 Một ứng dụng mô phỏng hiện tượng khúc xạ và tán sắc ánh sáng qua lăng kính với giao diện trực quan và tương tác.
-
+<img width="1918" height="1012" alt="Image" src="https://github.com/user-attachments/assets/e6ddf12b-0adb-4a57-85b8-d52d517be887" />
+<img width="1918" height="1017" alt="Image" src="https://github.com/user-attachments/assets/f2c2f32e-3294-44ee-843b-04c28df4e537" />
 ## Tính năng chính
 - **Mô phỏng chính xác**: Áp dụng định luật Snell để tính toán đường đi của tia sáng
 - **Hai chế độ hiển thị**:
@@ -23,7 +24,7 @@ Một ứng dụng mô phỏng hiện tượng khúc xạ và tán sắc ánh s�
 ## Sử dụng
 Chạy chương trình bằng lệnh:
 ```bash
-python hay.py
+python main.py
 ```
 ### Các nút chức năng
 - **Reset**: Đặt lại tất cả thông số về giá trị mặc định
